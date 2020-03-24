@@ -1,3 +1,8 @@
+# Work In Progress
+This is a personal fork of Whilefun Games add-ons for the legendary FPE engine:
+https://assetstore.unity.com/packages/templates/systems/first-person-exploration-kit-60434
+containing an integration for the Pixelcrushers Dialog System.
+
 # FPEKitAddOns
 A set of free add-ons for users of First Person Exploration Kit.
 
